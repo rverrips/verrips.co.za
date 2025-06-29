@@ -1,0 +1,12 @@
+{
+    "name": "rverrips/verrips.co.za",
+    "description": "Redirect to verrips.com",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Roy Verrips",
+            "email": "roy@verrips.org"
+        }
+    ],
+    "require": {}
+}
